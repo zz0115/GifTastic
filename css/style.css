@@ -1,0 +1,113 @@
+#topic {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.imageDiv-0 {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+    
+}
+
+.imageDiv-1 {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+
+}
+
+.imageDiv-2 {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+    
+}
+
+.imageDiv-3 {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+    
+}
+
+.imageDiv-4 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+.imageDiv-5 {
+    float: left;
+    margin-top: 20px; 
+    margin-left: 5px;   
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+.imageDiv-6 {
+    float: left;
+    margin-top: 20px;  
+    margin-left: 5px;  
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+.imageDiv-7 {
+    float: left;
+    margin-top: 20px;    
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+.imageDiv-8 {
+    float: left;
+    margin-top: 20px;    
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+.imageDiv-9 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;    
+    margin-right: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+}
+
+#searchTerm {
+    margin-top: 5px;
+    width: 300px;
+}
+
+#hint {
+    font-size: 10px;
+}
+
+input {
+    margin-top: 10px;
+}
